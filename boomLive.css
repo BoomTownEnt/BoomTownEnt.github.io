@@ -1,0 +1,191 @@
+/* PAGE RULES */
+
+html, body {
+    margin: 0px;
+    font-family: Arial;
+    font-variant: small-caps;
+    background-color: #000000;
+    color: #f0bc4c;
+
+}
+body {
+    background-image: url(BTEBackGround.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+
+}
+
+p, h1, h2, h3, h4, h5, h6, form {
+    text-align: center;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+#gradientBanner {
+    text-align: justify;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#discoball {
+    float: left;
+}
+
+
+#bannerNavLinks {
+    float: right;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
+#bTEMainBanner {
+    clear: both;
+}
+
+
+
+/* Main*/
+
+
+
+#greetingParagraph {
+    margin-bottom: 100px;
+}
+
+h1 {
+    margin: auto;
+    margin-bottom: 100px;
+    line-height: 50px;
+    text-align: center;
+    font-family: Bolkit;
+    size: 2rem;
+
+}
+
+#nRefund {
+    margin: auto;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+
+
+
+
+/* BOXE */
+
+#rates {
+    background-color: #373b46;
+    width: 40%;
+    text-align: justify;
+    margin-left: 30%;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+
+}
+
+/* Emailer */
+
+#emailDog {
+    background-image: url(EmailBgGoldBTE.png);
+    background-position: center;
+    color: #000000;
+    background-repeat: no-repeat;
+    padding: 100px;
+    margin: 100px;
+    float: none;
+    text-align: center;
+
+}
+
+
+
+input[type=text], select, textarea {
+    width: auto;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-bottom: 10px;
+
+}
+
+#yName   #details {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.emailInputBoxR {
+    float: left;
+    
+}
+
+#subButton {
+    text-align: center;
+
+}
+
+
+input[type=submit] {
+    background-color: #00928d;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+input[type=submit]:hover {
+    background-color: #50974b;
+
+}
+
+
+
+/* FOOTER */
+
+footer {
+    padding: 10px;
+    clear: left;
+    text-align: center;
+}
+
+#footerImage {
+    float: right;
+   
+}
+
+
+#footerLinks {
+    clear: right;
+    border-top: 2px #f0bc4b solid;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+
+}
+
+ul {
+    float: left;
+    width: 30%;
+    list-style: none;
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 1.2rem;
+}
