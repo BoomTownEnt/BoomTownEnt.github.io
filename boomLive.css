@@ -19,6 +19,10 @@ p, h1, h2, h3, h4, h5, h6, form {
     text-align: center;
 }
 
+a {
+    color: #f0bc4b;
+}
+
 /* HEADER */
 header {
     text-align: center;
