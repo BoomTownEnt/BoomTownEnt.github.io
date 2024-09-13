@@ -9,7 +9,7 @@ html, body {
 
 }
 body {
-    background-image: url(BTEBackGround.png);
+    background-image: url(Images/BTEBackGround.png);
     background-attachment: scroll;
     background-repeat: no-repeat;
 
@@ -100,7 +100,7 @@ p {
 /* Emailer */
 
 #emailDog {
-    background-image: url(EmailBgGoldBTE.png);
+    background-image: url(Images/EmailBgGoldBTE.png);
     background-position: center;
     color: #000000;
     background-repeat: no-repeat;
